@@ -10,3 +10,11 @@ Listado de alumnos del curso de Estructuras de Datos
 8.Sotelo Atuncar, Diego Alejandro
 9.
 10.
+
+
+fork
+git clone
+git add "archivo"
+git commit -m "actualizaicon"
+git push
+pull request
