@@ -1,6 +1,7 @@
 Listado de alumnos del curso de Estructuras de Datos
 
 1. Ernesto Cuadros-Vargas
+2. Martín Caballero Chocano
 2. Alexis Gonzales
 3.
 4.
@@ -17,5 +18,6 @@ Listado de alumnos del curso de Estructuras de Datos
 8.
 9.
 10.
+44. Caballero Chocano Martín
 11.
 12. Gamarra Muñoz Juan Pablo
