@@ -2,7 +2,7 @@ Listado de alumnos del curso de Estructuras de Datos
 
 1. Ernesto Cuadros-Vargas
 2.
-3.
+3. Ruben Dario-Palomino
 4.
 5.
 6.
