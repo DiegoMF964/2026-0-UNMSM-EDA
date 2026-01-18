@@ -24,11 +24,11 @@ Listado de alumnos del curso de Estructuras de Datos
 10.
 11.
 12.
-13.
+13.Miranda Falcon Diego Rodolfo.
 14.
 15. Ventura Enciso, Alan
 44. Caballero Chocano Martín
 11.
 12. Gamarra Muñoz Juan Pablo
-13. Miranda Falcon Diego Rodolfo.
+13.  
 
